@@ -11,6 +11,9 @@
 # inventory['gold'] += 50
 # print(inventory)
 
+
+
+
 # exercice 2
 # prices ={
 #     "banana": 4,
@@ -38,7 +41,10 @@
 # print()
 # print("Total : {}".format(sum))   
 
- # 20.8.1
+
+
+
+# 20.8.1
 # j = input("ThiS is String with Upper and lower case Letters")
 # string = {
 #     "a" : 2,
