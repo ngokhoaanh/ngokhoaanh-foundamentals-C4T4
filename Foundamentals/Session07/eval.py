@@ -1,7 +1,6 @@
 # define
 # arguments 
 
-
 def calculate (x,y,op) :
 
     if op == "+" :
@@ -18,6 +17,7 @@ def calculate (x,y,op) :
 
 
 # call function
-result = calculate (1,2,"+")
-print(result)
+# result = calculate (1,2,"+")
+# print(result)
+
 
